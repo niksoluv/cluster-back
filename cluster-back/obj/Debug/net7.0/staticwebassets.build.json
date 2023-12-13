@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WlbBomCKuHCXw+hZxdtve2fc8cKRZno37FncbUQz+kA=",
+  "Source": "cluster-back",
+  "BasePath": "_content/cluster-back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

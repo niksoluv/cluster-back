@@ -1,0 +1,17 @@
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+D:\Desktop\Users Clusterization\cluster-back\Repository\bin\Debug\net7.0\Repository.deps.json
+D:\Desktop\Users Clusterization\cluster-back\Repository\bin\Debug\net7.0\Repository.dll
+D:\Desktop\Users Clusterization\cluster-back\Repository\bin\Debug\net7.0\Repository.pdb
+D:\Desktop\Users Clusterization\cluster-back\Repository\bin\Debug\net7.0\Contracts.dll
+D:\Desktop\Users Clusterization\cluster-back\Repository\bin\Debug\net7.0\Entities.dll
+D:\Desktop\Users Clusterization\cluster-back\Repository\bin\Debug\net7.0\Contracts.pdb
+D:\Desktop\Users Clusterization\cluster-back\Repository\bin\Debug\net7.0\Entities.pdb
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\Repository.dll
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\refint\Repository.dll
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\Repository.pdb
+D:\Desktop\Users Clusterization\cluster-back\Repository\obj\Debug\net7.0\ref\Repository.dll

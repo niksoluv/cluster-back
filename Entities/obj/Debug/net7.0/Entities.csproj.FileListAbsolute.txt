@@ -1,0 +1,14 @@
+D:\Desktop\Users Clusterization\cluster-back\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\Desktop\Users Clusterization\cluster-back\Entities\bin\Debug\net7.0\Entities.runtimeconfig.json
+D:\Desktop\Users Clusterization\cluster-back\Entities\bin\Debug\net7.0\Entities.dll
+D:\Desktop\Users Clusterization\cluster-back\Entities\bin\Debug\net7.0\Entities.pdb
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\Entities.dll
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\Entities.pdb
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\Entities.genruntimeconfig.cache
+D:\Desktop\Users Clusterization\cluster-back\Entities\obj\Debug\net7.0\ref\Entities.dll
