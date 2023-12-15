@@ -39,6 +39,7 @@ namespace cluster_back.Controllers
             if (user != null)
             {
                 List<ClusteringResult> results = _wrapper.ClusteringResults.FindByCondition(r => r.UserId == user.Id).ToList();
+                results = results.OrderBy(r => r.Created).Reverse().ToList();
                 return Ok(results);
             }
             return NotFound("Such user does not exists");
