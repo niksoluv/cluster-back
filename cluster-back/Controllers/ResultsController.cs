@@ -44,6 +44,18 @@ namespace cluster_back.Controllers
             }
             return NotFound("Such user does not exists");
         }
+        [HttpGet("history/{id}")]
+        public async Task<IActionResult> GetHistoryById(Guid id)
+        {
+            string username = User.Identity.Name;
+            User user = await _wrapper.User.FindByCondition(u => u.UserName == username).FirstOrDefaultAsync();
+            if (user != null)
+            {
+                ClusteringResult results = _wrapper.ClusteringResults.FindByCondition(r => r.UserId == user.Id && r.Id == id).FirstOrDefault();
+                return Ok(results);
+            }
+            return NotFound("Such user does not exists");
+        }
         [HttpPost("saveData")]
         [AllowAnonymous]
         public async Task<IActionResult> SaveData([FromBody] ClusteringResult result)
